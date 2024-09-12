@@ -54,7 +54,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ https://tako0614.github.io/study }}
+      url: ${{  tako0614.github.io }}
     needs: build
     runs-on: ubuntu-latest
     name: Deploy

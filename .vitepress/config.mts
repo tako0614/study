@@ -13,11 +13,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '数学',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
+          { text: '展開', link: '/math/展開' }
+        ],
+        link: "/math/数学"
       }
     ],
 

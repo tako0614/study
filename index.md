@@ -3,23 +3,14 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "たこの数学ノート"
+  text: "vite pressで勉強するぜ"
+  tagline: sutdy every day
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: /math/数学
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: takos
+      link: https://docs.takos.jp
 ---
-
